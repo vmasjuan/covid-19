@@ -8,6 +8,8 @@ He modificado el texto y código considerando también otros artículos.
 
 Agradezco la orientación de mi amiga [Andrea Basagoitía](https://www.linkedin.com/in/abasagoitia/), PhD, por su orientación y contribución para entender el fenómeno.
 
+El notebook [Covid-19_SEIR-Model] (https://github.com/vmasjuan/covid-19/blob/master/Covid_19_SEIR_Model.ipynb) puede verse y ejecutarse en Google Colab (a la vez visualizar correctamente las ecuaciones).
+
 Cualquier comentario es bienvenido.
 
 [Victor Masjuan](https://www.linkedin.com/in/victormasjuan/)
