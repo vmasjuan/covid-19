@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vmasjuan/covid-19/blob/master/Covid_19_SEIR_Model.ipynb/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vmasjuan/covid-19/master)
 
 # Coronavirus
 
