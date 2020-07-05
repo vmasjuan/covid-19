@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vmasjuan/covid-19/master)
+
 # Coronavirus
 
 El propósito de este repositorio es experimentar con las ecuaciones del Modelo SEIR para ilustrar un posible comportamiento del Covid-19, como también el efecto del distanciamiento social. No tiene propósito de ser exacto o predecir la evolución de la pandemia, por lo que no se debe entender los valores como reales ni sirven para toma de decisiones.
